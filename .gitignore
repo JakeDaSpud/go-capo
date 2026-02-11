@@ -1,0 +1,3 @@
+# Don't commit image files
+*.png
+*.jpg
